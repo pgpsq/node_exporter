@@ -7,4 +7,4 @@
 !.build/linux-ppc64le
 !.build/linux-s390x
 
-eee
+./roocode
